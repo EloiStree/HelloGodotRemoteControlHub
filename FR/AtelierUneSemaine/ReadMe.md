@@ -22,7 +22,8 @@ Découvrir la programmation à travers les jeux vidéo.
   * 4 souris
 * **4 Arduino** configurés pour simuler une manette Xbox
 * **4 ESP32** configurés pour simuler un clavier et une souris Bluetooth
-👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.
+  
+👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.  
 
 **Note**:
 * Étant nomade et voyageant en train avec un flycase, je ne peux pas transporter d’écrans classiques. Les Raspberry Pi sont équipés de petits écrans tactiles, mais il est recommandé de prévoir des écrans supplémentaires, ou bien de demander aux participants d’apporter leur propre clavier et écran pour plus de confort.
