@@ -1,7 +1,7 @@
 
 ## Objectif
 
-Découvrir la programmation à travers les jeux vidéo.
+Découvrir la programmation à travers le test et l'automation sur les jeux vidéo.
 
 ## Participants
 
