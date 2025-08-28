@@ -70,7 +70,7 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 
 * Créer leurs propres scripts de contrôle (boutons, sliders, joysticks).
 * Relier du code à des actions concrètes dans un jeu.
-* Construire leur propre manette avec Arduino ou ESP32 (grâce à un code fourni).
+* Utiliser leur propre manette avec Arduino ou ESP32 (grâce à un code fourni).
 
-👉 Ils pourront acheter le matériel s’ils souhaitent poursuivre à la maison.
+👉 Ils peuvent acheter le matériel en amont de l’atelier afin qu’il soit configuré sur place, s’ils souhaitent ensuite continuer à l’utiliser chez eux.
 
