@@ -74,3 +74,9 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 
 👉 Ils peuvent acheter le matériel en amont de l’atelier afin qu’il soit configuré sur place, s’ils souhaitent ensuite continuer à l’utiliser chez eux.
 
+
+--------------
+
+<img width="830" height="635" alt="image" src="https://github.com/user-attachments/assets/b211f9f0-a4e2-41c5-9758-8c50406bff14" />
+
+
