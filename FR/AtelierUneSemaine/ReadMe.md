@@ -18,7 +18,7 @@ Découvrir la programmation à travers les jeux vidéo.
 * **4 mini PC sous Windows** pour faire tourner les jeux
   * Un multi-viewer pour afficher les quatres ordinateur sur le meme ecran. 
 * **4 Raspberry Pi 5 avec écran tactile**
-  * 8 claviers
+  * 4-8 claviers
   * 4 souris
 * **4 Arduino** configurés pour simuler une manette Xbox
 * **4 ESP32** configurés pour simuler un clavier et une souris Bluetooth
