@@ -16,16 +16,19 @@ Découvrir la programmation à travers les jeux vidéo.
 ## Matériel mis à disposition
 
 * **4 mini PC sous Windows** pour faire tourner les jeux
-
-  * avec 4 petits écrans ou un grand écran partagé
-* **4 Raspberry Pi** (travail en binôme → *pair programming*)
-
+  * Un multi-viewer pour afficher les quatres ordinateur sur le meme ecran. 
+* **4 Raspberry Pi 5 avec ecran tactile**
   * 8 claviers
   * 4 souris
 * **4 Arduino** configurés pour simuler une manette Xbox
 * **4 ESP32** configurés pour simuler un clavier et une souris Bluetooth
-
 👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.
+
+**Note**:
+* Étant nomade et voyageant en train avec un flycase, je ne peux pas transporter d’écrans classiques. Les Raspberry Pi sont équipés de petits écrans tactiles, mais il est recommandé de prévoir des écrans supplémentaires, ou bien de demander aux participants d’apporter leur propre clavier et écran pour plus de confort.
+* Afin de pouvoir projeter des slides ou afficher les PC à manipuler, il est nécessaire de disposer sur place d’un écran TV ou d’un vidéoprojecteur.
+* Je peux apporter jusqu’à 4 Raspberry Pi 5 supplémentaires, à condition que des écrans soient disponibles sur place et que l’espace nécessaire soit prévu.
+
 
 ---
 
