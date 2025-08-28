@@ -1,7 +1,7 @@
 
 ## Objectif
 
-Découvrir la programmation à travers le test et l'automation sur les jeux vidéo.
+Découvrir la programmation à travers le test et l’automatisation sur les jeux vidéo.
 
 ## Participants
 
@@ -16,20 +16,20 @@ Découvrir la programmation à travers le test et l'automation sur les jeux vid�
 ## Matériel mis à disposition
 
 * **4 mini PC sous Windows** pour faire tourner les jeux
-  * Un multi-viewer pour afficher les quatres ordinateur sur le meme ecran. 
+  * Un multi-viewer pour afficher les quatre ordinateurs sur le même écran.
 * **4 Raspberry Pi 5 avec écran tactile**
   * 4-8 claviers
   * 4 souris
 * **4 Arduino** configurés pour simuler une manette Xbox
 * **4 ESP32** configurés pour simuler un clavier et une souris Bluetooth
-  
-👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.  
 
-**Note**:
+👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.
+
+**Note** :
+
 * Étant nomade et voyageant en train avec un flycase, je ne peux pas transporter d’écrans classiques. Les Raspberry Pi sont équipés de petits écrans tactiles, mais il est recommandé de prévoir des écrans supplémentaires, ou bien de demander aux participants d’apporter leur propre clavier et écran pour plus de confort.
 * Afin de pouvoir projeter des slides ou afficher les PC à manipuler, il est nécessaire de disposer sur place d’un écran TV ou d’un vidéoprojecteur.
 * Je peux apporter jusqu’à 4 Raspberry Pi 5 supplémentaires, à condition que des écrans soient disponibles sur place et que l’espace nécessaire soit prévu.
-
 
 ---
 
@@ -74,11 +74,6 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 
 👉 Ils peuvent acheter le matériel en amont de l’atelier afin qu’il soit configuré sur place, s’ils souhaitent ensuite continuer à l’utiliser chez eux.
 
+---
 
---------------
-
-
-<img width="809" height="624" alt="image" src="https://github.com/user-attachments/assets/f7c6da49-65f5-4ced-9a67-731c5c645128" />
-
-
-
+<img width="809" height="624" alt="image" src="https://github.com/user-attachments/assets/f7c6da49-65f5-4ced-9a67-731c5c645128" />  
