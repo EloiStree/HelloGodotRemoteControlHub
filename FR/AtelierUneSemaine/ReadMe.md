@@ -60,7 +60,7 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 * **Étape 2** : Associer des scripts à des boutons/contrôles à l’écran pour *10 Seconds Ninja* et *Stealth Bastard*.
 * **Étape 3** : Lier des touches de clavier à des actions dans *La Horde.io*.
 * **Étape 4** : Explorer la finesse et la précision nécessaires dans *Liftoff*.
-* **Étape 5 (jour final)** : Réaliser un mini-projet personnel sur un jeu au choix (compatible avec le matériel fourni ou apporté).
+* **Étape 5 (jour final)** : Pratiquer sur un jeu au choix (compatible avec le matériel fourni ou apporté).
 
 ---
 
