@@ -77,6 +77,8 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 
 --------------
 
-<img width="830" height="635" alt="image" src="https://github.com/user-attachments/assets/b211f9f0-a4e2-41c5-9758-8c50406bff14" />
+
+<img width="809" height="624" alt="image" src="https://github.com/user-attachments/assets/f7c6da49-65f5-4ced-9a67-731c5c645128" />
+
 
 
