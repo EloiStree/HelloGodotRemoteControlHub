@@ -5,7 +5,7 @@ Découvrir la programmation à travers les jeux vidéo.
 
 ## Participants
 
-* 8 enfants âgés de 11 à 17 ans
+* 8 enfants âgés de 11 à 16 ans (+-)
 
 ### Conditions de participation
 
