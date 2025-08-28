@@ -30,21 +30,7 @@ My goal with this project is to turn Godot into a nice **remote controller inter
 So if you’re interested in learning to code and want to learn Godot,
 this repository might be useful for you.
 
----
 
-### Games to learn coding with:
-
-* [10 Second Ninja](https://store.steampowered.com/app/271670/10_Second_Ninja/?l=french)
-* [Stealth Bastard Deluxe](https://store.steampowered.com/app/209190/Stealth_Bastard_Deluxe/)
-* [Hordes.io](https://hordes.io/)
-* [This Means Warp](https://store.steampowered.com/app/1269300/This_Means_Warp/)
-
-Feel free to suggest others!
-
-
-Here’s your text cleaned up with spelling, grammar, and flow corrections, while keeping the same casual/dev-friendly tone:
-
----
 
 ### Games to learn coding with:
 
