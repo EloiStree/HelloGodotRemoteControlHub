@@ -2,8 +2,8 @@
 
 ## Hello Godot Remote Control Hub
 
-Learn to code by creating your own controllers with Godot on Raspberry Pi
-*(This guide will later be translated into a shorter version in French for kids’ workshops in Belgium.)*
+Learn to code by creating your own controllers with Godot on Raspberry Pi  
+*(This guide will later be translated into a shorter version in French for kids’ workshops in Belgium.)*  
 
 [<img width="1267" height="621" alt="image" src="https://github.com/user-attachments/assets/50063677-d892-49d2-bd49-53b814a6ecb2" />](https://godotengine.org/download/windows)
 Download Godot: [https://godotengine.org/download/](https://godotengine.org/download/)
