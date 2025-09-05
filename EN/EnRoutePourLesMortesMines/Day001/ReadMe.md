@@ -33,7 +33,7 @@ To play World of Warcraft and other small games, we need a computer to control r
 If you don’t plan to play 3D games outside of WoW, this is the model I used: Mini PC AWow  
 [<img width="1159" height="726" alt="image" src="https://github.com/user-attachments/assets/1ee6ec3b-f1f0-4c5a-9eaa-6180ef8c4c41" />](https://www.amazon.com.be/dp/B0DRFDSLK3/)
 [https://www.amazon.com.be/dp/B0DRFDSLK3/](https://www.amazon.com.be/dp/B0DRFDSLK3/)    
-(The main reason for this one is that when the power goes down, it restarts automatically ⛈️😁)]     
+(The main reason for this one is that when the power goes down, it restarts automatically ⛈️😁)  
 
 ---
 
