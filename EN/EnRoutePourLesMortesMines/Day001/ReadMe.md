@@ -91,7 +91,7 @@ You can simulate a keyboard with the Arduino Leonardo.
 But wouldn’t it be more fun to simulate a keyboard that works everywhere?
 
 In the future, we are going to use the ESP32-S3 to build a Bluetooth keyboard and mouse that work on any device supporting Bluetooth 😮
-[<img width="548" height="551" alt="image" src="https://github.com/user-attachments/assets/4721a9dd-59e8-4cb9-a084-84ce8d7883d5" />](https://www.google.com/search?q=esp32+s3)  
+[<img width="745" height="734" alt="image" src="https://github.com/user-attachments/assets/c8d344e5-957a-4fe6-808f-db166cb23478" />](https://www.google.com/search?q=esp32+s3)
 [https://www.google.com/search?q=esp32+s3](https://www.google.com/search?q=esp32+s3)
 
 ---
