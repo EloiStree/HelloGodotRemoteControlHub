@@ -3,7 +3,7 @@ You know nothing about computer 🤓.
 
 Raspberry Pi is a small computer created by UK to teach to kids what are those computer stuffs.
 
-> 🐛 If you are too young to do the following step, you can ask someelse to do it for you.
+> 🐛 If you are too young to do the following step, you can ask someone else to do it for you.
 
 
 It cost under 150 euro based on what equipement you want to use.
