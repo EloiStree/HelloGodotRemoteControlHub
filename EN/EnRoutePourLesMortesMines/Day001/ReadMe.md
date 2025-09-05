@@ -105,15 +105,15 @@ Don’t think about it too much for now ^^
 
 But you will need this magic device that you’re going to love in your future DIY projects: the HC-05 or a TTL adapter.
 
-HC-05 (Bluetooth, a bit of delay):
-[<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/b35e304a-23f4-4cc1-bd38-ca7afea6fda5" />](https://www.google.com/search?q=hc05)  
-[https://www.google.com/search?q=hc05](https://www.google.com/search?q=hc05)
+HC-05 (Bluetooth, a bit of delaybut no cable 😋):  
+[<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/b35e304a-23f4-4cc1-bd38-ca7afea6fda5" />](https://www.google.com/search?q=hc05)      
+[https://www.google.com/search?q=hc05](https://www.google.com/search?q=hc05)    
 
-TTL CH340G (USB direct, no delay):
-[<img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/5fb3d833-0231-47cb-8801-21d71be84e95" />](https://www.google.com/search?q=TTL+CH340G)  
-[https://www.google.com/search?q=TTL+CH340G](https://www.google.com/search?q=TTL+CH340G)
+TTL CH340G (USB direct, no delay but using one of your USB port):  
+[<img width="833" height="720" alt="image" src="https://github.com/user-attachments/assets/2a151ef3-bb4a-4e71-bda1-8238a3f2a097" />](https://www.google.com/search?q=TTL+CH340G)    
+[https://www.google.com/search?q=TTL+CH340G](https://www.google.com/search?q=TTL+CH340G)    
 
-Both work the same way.
+Both work the same way with a concept call UART.
 
 ---
 
@@ -123,13 +123,13 @@ We are still missing something.
 
 To read game information safely (and avoid anti-cheat issues), you should use an external capture device.
 
-**Option 1: A capture device like the MiraBox:**  
+**Option 1: A capture device like the MiraBox:**    
 [<img width="1074" height="485" alt="image" src="https://github.com/user-attachments/assets/cd1a679d-5353-4cd7-924f-4760bfde4132" />](https://www.google.com/search?q=mirabox)   
 [<img width="800" height="646" alt="image" src="https://github.com/user-attachments/assets/a0adef78-ccd1-40fa-ade5-fe38e991400f" />](https://www.google.com/search?q=mirabox)   
 [https://www.google.com/search?q=mirabox](https://www.google.com/search?q=mirabox)  
   
 
-**Option 2: A simple webcam:**    
+**Option 2: A simple webcam:**      
 [<img width="566" height="552" alt="image" src="https://github.com/user-attachments/assets/dcf4d4d2-f043-40ed-984e-f9796c97042f" />](https://www.amazon.com.be/dp/B0DWFQ4M5C)  
 [https://www.amazon.com.be/dp/B0DWFQ4M5C](https://www.amazon.com.be/dp/B0DWFQ4M5C)  
 (I picked the cheap one from Amazon myself 😅)  
