@@ -51,7 +51,8 @@ To do that, you will need two things:
 ---
 
 An Arduino Leonardo to simulate an XInput Xbox controller:
-[<img width="776" height="551" alt="image" src="https://github.com/user-attachments/assets/30fc3bc5-ab23-4128-9a0e-87665536999d" />](https://www.google.com/search?q=Arduino%20Leonardo)   
+[<img width="615" height="474" alt="image" src="https://github.com/user-attachments/assets/69dfbcf7-3be2-423b-80fd-fece1b9104a3" />
+](https://www.google.com/search?q=Arduino%20Leonardo)   
 [https://www.google.com/search?q=Arduino%20Leonardo](https://www.google.com/search?q=Arduino%20Leonardo)
 
 🧐 "We can play World of Warcraft with an Xbox?"
