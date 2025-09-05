@@ -1,5 +1,10 @@
+So ...  
 
-We are going to need a Raspberry Pi and a Mini PC 🧐
+
+<img width="716" height="412" alt="image" src="https://github.com/user-attachments/assets/6073d411-01d6-422e-b53d-43b261bc9d60" />  
+  
+
+We are going to need a Raspberry Pi 5 🖥️ and a Window Mini PC 💻 ( or you gaming PC 🎮 ) 
 Our aim is to learn coding by becoming a Quality Assurance tester/developer.
 We’re gonna hack them all!!!
 
