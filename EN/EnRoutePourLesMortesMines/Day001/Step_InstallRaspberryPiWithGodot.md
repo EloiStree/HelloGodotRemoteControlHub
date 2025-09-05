@@ -97,7 +97,8 @@ sudo apt install blender -y
 ```  
 <img width="912" height="574" alt="image" src="https://github.com/user-attachments/assets/ad2f26a3-fdfb-4e29-a68f-b4a0a2bcb0d1" />
 
-**Git** is already installed, but it’s better to be sure because it’s an essential tool:  
+**Git** is already installed, but it’s better to be sure because it’s an essential tool:    
+**Replace by your name and mail. 😋**  
 ```
 # Update your system
 sudo apt update
