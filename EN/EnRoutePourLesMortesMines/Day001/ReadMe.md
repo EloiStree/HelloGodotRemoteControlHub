@@ -1,4 +1,4 @@
-So ...  
+**So ...**    
 [<img width="716" height="412" alt="image" src="https://github.com/user-attachments/assets/6073d411-01d6-422e-b53d-43b261bc9d60" />](https://www.youtube.com/watch?v=JzY8gB5UcS4&list=RDJzY8gB5UcS4&start_radio=1)  
 
 We are going to need a Raspberry Pi 5 🖥️ and a Window Mini PC 💻 ( or you gaming PC 🎮 ) 
@@ -156,4 +156,4 @@ Let's dive in the unkown together...
 
 
 
-Next: [Install the damn Raspberry Pi.](https://github.com/EloiStree/HelloGodotRemoteControlHub/tree/main/EN/EnRoutePourLesMortesMines/Day001)
+Next: [Install the damn Raspberry Pi.](https://github.com/EloiStree/HelloGodotRemoteControlHub/blob/main/EN/EnRoutePourLesMortesMines/Day001/Step_InstallRaspberryPiWithGodot.md)
