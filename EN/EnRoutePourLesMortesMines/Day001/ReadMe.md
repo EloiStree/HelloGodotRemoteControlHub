@@ -57,6 +57,7 @@ An Arduino Leonardo to simulate an XInput Xbox controller:
 
 🧐 "We can play World of Warcraft with an Xbox?"
 Yes—if you are using the Console Port addon:
+[<img width="800" height="460" alt="image" src="https://github.com/user-attachments/assets/b65a132b-296d-4620-a7e9-4e3fe3cbbe35" />](https://www.curseforge.com/wow/addons/console-port)
 [https://www.curseforge.com/wow/addons/console-port](https://www.curseforge.com/wow/addons/console-port)
 
 ---
