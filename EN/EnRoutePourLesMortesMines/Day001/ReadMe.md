@@ -1,6 +1,27 @@
 
+We are going to need a Raspberry Pi and a Mini PC 🧐
+Our aim is to learn coding by becoming a Quality Assurance tester/developer.
+We’re gonna hack them all!!!
 
-We are going to need a Raspberry Pi.
+So 😅, if we want to hack them all,
+we’re gonna need some hardware.
+
+Don’t be afraid of that. I am going to restart at a beginner level after this section.
+[<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/458d9088-f0e3-4479-bede-72e336b8802a" />](https://youtu.be/XNmozHXQ5zk?t=9)
+
+Note that if you don’t like the idea of playing World of Warcraft, you can explore:
+
+* [https://hordes.io](https://hordes.io)
+* [10 Second Ninja](https://store.steampowered.com/app/271670/10_Second_Ninja)
+* [Stealth Bastard](https://store.steampowered.com/app/209190/Stealth_Bastard_Deluxe)
+* [Doom DOS (if you’re old enough)](https://www.gog.com/en/game/doom_doom_ii)
+
+---
+
+> 🧐 "Godot runs on Raspberry Pi 😮 ?!"
+
+Oh yes, it does 😁🐛🌟.
+But I wouldn’t try it on Raspberry Pi 2, 3, or 4 😋.
 
 I am going to use two setups.
 
@@ -55,7 +76,8 @@ An Arduino Leonardo to simulate an XInput Xbox controller:
 ](https://www.google.com/search?q=Arduino%20Leonardo)   
 [https://www.google.com/search?q=Arduino%20Leonardo](https://www.google.com/search?q=Arduino%20Leonardo)
 
-🧐 "We can play World of Warcraft with an Xbox?"
+>  🧐 "We can play World of Warcraft with an Xbox?"
+
 Yes—if you are using the Console Port addon:
 [<img width="800" height="460" alt="image" src="https://github.com/user-attachments/assets/b65a132b-296d-4620-a7e9-4e3fe3cbbe35" />](https://www.curseforge.com/wow/addons/console-port)
 [https://www.curseforge.com/wow/addons/console-port](https://www.curseforge.com/wow/addons/console-port)
@@ -93,24 +115,41 @@ Both work the same way.
 
 ---
 
-🧐 "Are we good now?"
+> 🧐 "Are we good now?"
 
 We are still missing something.
 
 To read game information safely (and avoid anti-cheat issues), you should use an external capture device.
 
-Option 1: A capture device like the MiraBox:
-[<img width="1700" height="1700" alt="image" src="https://github.com/user-attachments/assets/59715433-fc4e-4f1b-8c84-c5df1c612e60" /> ](https://www.google.com/search?q=mirabox)   
+**Option 1: A capture device like the MiraBox:**
+[<img width="1074" height="485" alt="image" src="https://github.com/user-attachments/assets/cd1a679d-5353-4cd7-924f-4760bfde4132" />](https://www.google.com/search?q=mirabox)  
+[<img width="800" height="646" alt="image" src="https://github.com/user-attachments/assets/a0adef78-ccd1-40fa-ade5-fe38e991400f" />](https://www.google.com/search?q=mirabox)  
 [https://www.google.com/search?q=mirabox](https://www.google.com/search?q=mirabox)
   
-Option 2: A webcam:
-[<img width="566" height="552" alt="image" src="https://github.com/user-attachments/assets/dcf4d4d2-f043-40ed-984e-f9796c97042f" />](https://www.amazon.com.be/dp/B0DWFQ4M5C)  
+
+**Option 2: A simple webcam:**
+[<img width="566" height="552" alt="image" src="https://github.com/user-attachments/assets/dcf4d4d2-f043-40ed-984e-f9796c97042f" />](https://www.amazon.com.be/dp/B0DWFQ4M5C)
 [https://www.amazon.com.be/dp/B0DWFQ4M5C](https://www.amazon.com.be/dp/B0DWFQ4M5C)
 (I picked the cheap one from Amazon myself 😅)
 
+It is a more direct **approach**, but it is a real **hell** that will teach you all about color, exposure, lighting, and contrast.
+That is the worst you can do as a beginner—unless you actually plan to learn color and lighting later in your life.
+
+Here is a taste of the science topic of color spacing that you will need to learn to use webcam;
+[<img width="714" height="396" alt="image" src="https://github.com/user-attachments/assets/c2d41985-8898-4816-8509-4d9f2fa19847" />](https://www.google.com/search?q=color+space+3d)  
+[<img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/6e054dab-a970-4ca7-863d-9576a37bdc68" />](https://www.google.com/search?q=color+space+3d)  
+[<img width="1200" height="1361" alt="image" src="https://github.com/user-attachments/assets/02e411c4-1161-4b20-9171-4851bbeb0962" />](https://www.google.com/search?q=color+space+3d)  
+[https://www.google.com/search?q=color+space+3d](https://www.google.com/search?q=color+space+3d)  
+
 ---
 
-🧐 "Good?"
+> 🧐 "Good?"
 
 Yes. I think we are good now with the equipment.
+
+Let's dive in the unkown together...
+[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03ec8f07-69e7-42b2-8fe7-f14bb0fcbd6b" />](https://godotengine.org/article/godot-4-2-arrives-in-style)  
+[<img width="1272" height="612" alt="image" src="https://github.com/user-attachments/assets/31119cb3-2670-439a-91ec-fd191469442c" />](https://godotengine.org/download)  
+[https://godotengine.org/download/](https://godotengine.org/download/)   
+
 
