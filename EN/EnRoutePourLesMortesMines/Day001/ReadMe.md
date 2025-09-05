@@ -155,3 +155,5 @@ Let's dive in the unkown together...
 [https://godotengine.org/download/](https://godotengine.org/download/)   
 
 
+
+Next: [Install the damn Raspberry Pi.](https://github.com/EloiStree/HelloGodotRemoteControlHub/tree/main/EN/EnRoutePourLesMortesMines/Day001)
