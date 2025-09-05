@@ -123,21 +123,21 @@ We are still missing something.
 
 To read game information safely (and avoid anti-cheat issues), you should use an external capture device.
 
-**Option 1: A capture device like the MiraBox:**
-[<img width="1074" height="485" alt="image" src="https://github.com/user-attachments/assets/cd1a679d-5353-4cd7-924f-4760bfde4132" />](https://www.google.com/search?q=mirabox)  
-[<img width="800" height="646" alt="image" src="https://github.com/user-attachments/assets/a0adef78-ccd1-40fa-ade5-fe38e991400f" />](https://www.google.com/search?q=mirabox)  
-[https://www.google.com/search?q=mirabox](https://www.google.com/search?q=mirabox)
+**Option 1: A capture device like the MiraBox:**  
+[<img width="1074" height="485" alt="image" src="https://github.com/user-attachments/assets/cd1a679d-5353-4cd7-924f-4760bfde4132" />](https://www.google.com/search?q=mirabox)   
+[<img width="800" height="646" alt="image" src="https://github.com/user-attachments/assets/a0adef78-ccd1-40fa-ade5-fe38e991400f" />](https://www.google.com/search?q=mirabox)   
+[https://www.google.com/search?q=mirabox](https://www.google.com/search?q=mirabox)  
   
 
-**Option 2: A simple webcam:**
-[<img width="566" height="552" alt="image" src="https://github.com/user-attachments/assets/dcf4d4d2-f043-40ed-984e-f9796c97042f" />](https://www.amazon.com.be/dp/B0DWFQ4M5C)
-[https://www.amazon.com.be/dp/B0DWFQ4M5C](https://www.amazon.com.be/dp/B0DWFQ4M5C)
-(I picked the cheap one from Amazon myself 😅)
+**Option 2: A simple webcam:**    
+[<img width="566" height="552" alt="image" src="https://github.com/user-attachments/assets/dcf4d4d2-f043-40ed-984e-f9796c97042f" />](https://www.amazon.com.be/dp/B0DWFQ4M5C)  
+[https://www.amazon.com.be/dp/B0DWFQ4M5C](https://www.amazon.com.be/dp/B0DWFQ4M5C)  
+(I picked the cheap one from Amazon myself 😅)  
+  
+It is a more direct **approach**, but it is a real **hell** that will teach you all about color, exposure, lighting, and contrast.  
+That is the worst you can do as a beginner—unless you actually plan to learn color and lighting later in your life.  
 
-It is a more direct **approach**, but it is a real **hell** that will teach you all about color, exposure, lighting, and contrast.
-That is the worst you can do as a beginner—unless you actually plan to learn color and lighting later in your life.
-
-Here is a taste of the science topic of color spacing that you will need to learn to use webcam;
+Here is a taste of the science topic of color spacing that you will need to learn to use webcam;  
 [<img width="714" height="396" alt="image" src="https://github.com/user-attachments/assets/c2d41985-8898-4816-8509-4d9f2fa19847" />](https://www.google.com/search?q=color+space+3d)  
 [<img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/6e054dab-a970-4ca7-863d-9576a37bdc68" />](https://www.google.com/search?q=color+space+3d)  
 [<img width="1200" height="1361" alt="image" src="https://github.com/user-attachments/assets/02e411c4-1161-4b20-9171-4851bbeb0962" />](https://www.google.com/search?q=color+space+3d)  
