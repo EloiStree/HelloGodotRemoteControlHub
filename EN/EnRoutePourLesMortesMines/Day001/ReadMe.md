@@ -23,17 +23,17 @@ To read input, we can use the keyboard at first, then switch to an Arcade Kit DI
 [https://nl.aliexpress.com/w/wholesale-arcade--board-kit-diy.html?spm=a2g0o.best.search.0](https://nl.aliexpress.com/w/wholesale-arcade--board-kit-diy.html?spm=a2g0o.best.search.0)
 
 With a bit of 3D printing, we can make some cool footboards with those.
-<img width="1359" height="709" alt="image" src="https://github.com/user-attachments/assets/df2925e2-fc9c-49d3-b138-1c13f31b3e2f" />
+[<img width="1359" height="709" alt="image" src="https://github.com/user-attachments/assets/df2925e2-fc9c-49d3-b138-1c13f31b3e2f" />](https://www.youtube.com/watch?v=N02mYYh78ng&t=27s)  
+https://www.youtube.com/watch?v=N02mYYh78ng&t=27s  
 
 
 ---
 
 To play World of Warcraft and other small games, we need a computer to control remotely.  
 If you don’t plan to play 3D games outside of WoW, this is the model I used: Mini PC AWow  
-[https://www.amazon.com.be/dp/B0DRFDSLK3/](https://www.amazon.com.be/dp/B0DRFDSLK3/)  
-  
-[(The main reason for this one is that when the power goes down, it restarts automatically ⛈️😁)](https://youtu.be/N02mYYh78ng?t=27)   
-https://youtu.be/N02mYYh78ng?t=27
+[<img width="1159" height="726" alt="image" src="https://github.com/user-attachments/assets/1ee6ec3b-f1f0-4c5a-9eaa-6180ef8c4c41" />](https://www.amazon.com.be/dp/B0DRFDSLK3/)
+[https://www.amazon.com.be/dp/B0DRFDSLK3/](https://www.amazon.com.be/dp/B0DRFDSLK3/)    
+(The main reason for this one is that when the power goes down, it restarts automatically ⛈️😁)]     
 
 ---
 
