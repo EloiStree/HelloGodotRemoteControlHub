@@ -1,5 +1,4 @@
 
-You know nothing about computers 🤓.
 
 The Raspberry Pi is a small computer created in the UK to teach kids about computers and how they work.
 
