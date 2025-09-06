@@ -1,4 +1,6 @@
+Where am I now: https://github.com/EloiStree/HelloGodotRemoteControlHub/issues/40
 
+--------
 
 I was working on *World of Warcraft: Road to the Deadmines* when [Hollow Knight: Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong) suddenly appeared on the Steam store!  
 [<img width="954" height="498" alt="image" src="https://github.com/user-attachments/assets/17e18bf6-2f1a-4418-bb44-64e3755c3814" />](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong)
