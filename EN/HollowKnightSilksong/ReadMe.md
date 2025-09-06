@@ -1,4 +1,4 @@
-- Where am I now: https://github.com/EloiStree/HelloGodotRemoteControlHub/issues/40
+🌍📌: https://github.com/EloiStree/HelloGodotRemoteControlHub/issues/40
 
 --------
 
