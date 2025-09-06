@@ -245,3 +245,6 @@ Uh-oh, I’m lost! Why? Because game development isn’t simple. We **need** to 
 Okay, time to watch some tutorials and come back stronger!  
 [<img width="491" height="524" alt="image" src="https://github.com/user-attachments/assets/0891cdd1-9618-4cf3-8c35-4492ccb67055" />](https://www.youtube.com/watch?v=pMLIQP46OwE)
 
+----------
+
+Next step: Learn to send a udp integer when press a sprite to a given ip and port for only one button.
