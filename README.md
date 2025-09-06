@@ -12,6 +12,9 @@ Forum: https://forum.godotengine.org
 Asset: https://godotengine.org/asset-library/asset    
 Manual: https://docs.godotengine.org/en/stable      
 
+Learn Godot Script outside of the engine:  
+- https://github.com/EloiStree/HelloGodotCode  
+
 
 -----------------------
 
