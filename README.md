@@ -78,3 +78,25 @@ and to learn coding, students need to help them level up and finish the **Deadmi
 👉 [HelloInput Repository](https://github.com/EloiStree/HelloInput)
 
 
+
+**Step-by-Step (upcoming):**
+
+* From image to Pi setup *(coming soon)*
+* [Set up a GitHub account to prepare for using Git with Godot](https://youtu.be/G3r14cnzGnw)
+* Save your first Godot project *(coming soon)*
+
+**Older but still valuable resources:**
+
+* Install Raspberry Pi 5 with SSH and Pi Connect from Windows [📹](https://youtu.be/mn3I5Xw9chY)
+* Use Raspberry Pi Connect on Quest 3 😱🙀🧙‍♂️🍺 [📹](https://youtu.be/UNRGSQ8Qkh8)
+* Install Raspberry Pi on CM5 [📹](https://youtu.be/OHMu-tviMPI)
+* Change the default user password after imaging [📹](https://youtu.be/I5--TX_WUnc)
+* Enable auto-login for Raspberry Pi server [📹](https://youtu.be/ZraGtXev20E)
+* Configure port forwarding to access your Pi remotely [📹](https://youtu.be/dMZApM_3itA)
+* Set up No-IP DDNS on Raspberry Pi [📹](https://youtu.be/5HPETLGnmHw)
+* Play Windows games with a virtual software keyboard over Wi-Fi [📹](https://youtu.be/X0UA4ckn2ws)
+* Install and use Git with Unity3D on Windows [📹](https://youtu.be/4gCYIreHr5k)
+
+
+
+
