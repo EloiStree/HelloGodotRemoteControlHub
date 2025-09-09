@@ -1,7 +1,6 @@
-[💻 Code Section](https://github.com/EloiStree/HelloGodotCode) - [🚂 Engine Section](https://github.com/EloiStree/HelloGodotEngineKeyword) - [🕹️🎮 Hacking Game](https://github.com/EloiStree/HelloGodotRemoteControlHub) - [👓 XR Section](https://github.com/EloiStree/HelloGodotXR)  - [🍓 Raspberry Pi](https://github.com/EloiStree/HelloRaspberryPi) - [🍺🍻](https://buymeacoffee.com/apintio)
+[💻 Code Section](https://github.com/EloiStree/HelloGodotCode) - [🚂 Engine Section](https://github.com/EloiStree/HelloGodotEngineKeyword) - [🕹️🎮 Hacking Game](https://github.com/EloiStree/HelloGodotRemoteControlHub) - [👓 XR Section](https://github.com/EloiStree/HelloGodotXR)  - [🍓 Raspberry Pi](https://github.com/EloiStree/HelloRaspberryPi) - [🥽Quest3](https://github.com/EloiStree/HelloQuest3) - [🍺🍻](https://buymeacoffee.com/apintio)
 
 ------------------------------
-
 
 ## Hello Godot Remote Control Hub
 
