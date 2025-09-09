@@ -1,5 +1,6 @@
-
-<img width="1192" height="496" alt="image" src="https://github.com/user-attachments/assets/3f1e201e-5d38-46ca-8f52-e4b2d505b7dd" />
+[
+<img width="1192" height="496" alt="image" src="https://github.com/user-attachments/assets/3f1e201e-5d38-46ca-8f52-e4b2d505b7dd" />](https://discord.com/channels/1235157165589794909/1235176608793493514)  
+https://discord.com/channels/1235157165589794909/1235176608793493514  
 
 - [ ] https://www.youtube.com/watch?v=-a4LEQW-NMU
 - [ ] https://www.youtube.com/watch?v=19pa2-y-C6s
