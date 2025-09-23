@@ -17,13 +17,15 @@ Découvrir la programmation à travers le test et l’automatisation sur les jeu
 
 * **4 mini PC sous Windows** pour faire tourner les jeux
   * Un multi-viewer pour afficher les quatre ordinateurs sur le même écran.
-* **4 Raspberry Pi 5 avec écran tactile**
-  * 4-8 claviers
-  * 4 souris
-* **4 Arduino** configurés pour simuler une manette Xbox
-* **4 ESP32** configurés pour simuler un clavier et une souris Bluetooth
+* **8 Raspberry Pi 5 avec écran**
+  * 8 claviers
+  * 8 souris
+* **8 Arduino** configurés pour simuler une manette Xbox
+* **8 ESP32** configurés pour simuler un clavier et une souris Bluetooth
+  
 
-👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.
+👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.  
+Godot tourne sur la majoriter des ordinateurs ainsi que sur Android.  
 
 **Note** :
 
