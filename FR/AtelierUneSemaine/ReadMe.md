@@ -43,8 +43,8 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 2. **Stealth Bastard** → approfondissement des concepts
 3. **La Horde** → découverte du RPG et interactions clavier
 4. Choisir:
-  a. **Silksong** → challenge à ramener à la maison
-  b. **Liftoff** → pilotage de drones avec un retour
+   1. **Silksong** → challenge à ramener à la maison
+   2. **Liftoff** → pilotage de drones avec un retour
 5. **Jeu libre choisi par l’apprenant** → mise en pratique finale
 
 ---
