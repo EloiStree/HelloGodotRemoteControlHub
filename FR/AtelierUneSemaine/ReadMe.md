@@ -42,8 +42,10 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 1. **10 Seconds Ninja** → bases de la programmation
 2. **Stealth Bastard** → approfondissement des concepts
 3. **La Horde** → découverte du RPG et interactions clavier
-4. **Liftoff** → pilotage de drones et gestion de la précision
-5. **Jeu libre choisi par l’apprenant** → mise en pratique finale
+4. Choisir:
+  5. **Silksong** → challenge à ramener à la maison
+  6. **Liftoff** → pilotage de drones avec un retour
+7. **Jeu libre choisi par l’apprenant** → mise en pratique finale
 
 ---
 
