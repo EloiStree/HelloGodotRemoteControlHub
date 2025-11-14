@@ -83,4 +83,5 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 
 ---
 
-<img width="809" height="624" alt="image" src="https://github.com/user-attachments/assets/f7c6da49-65f5-4ced-9a67-731c5c645128" />  
+<img width="809" height="624" alt="image" src="https://github.com/user-attachments/assets/f7c6da49-65f5-4ced-9a67-731c5c645128" />    
+(L’image doit être mise à jour, car pour simplifier les choses avec les étudiants, je passe d’abord à un Pico 2W sous CircuitPython.)  
