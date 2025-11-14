@@ -20,6 +20,9 @@ Découvrir la programmation à travers le test et l’automatisation sur les jeu
 * **4-8 Raspberry Pi 5 avec écran**
   * 8 claviers
   * 8 souris
+* **8 Raspberry Pi Pico 2W**  configurés pour simuler un clavier manette et une souris USB
+
+Peut avoir lieu sur ces micro-controllers:  
 * **8 Arduino** configurés pour simuler une manette Xbox
 * **8 ESP32** configurés pour simuler un clavier et une souris Bluetooth
   
