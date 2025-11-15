@@ -12,8 +12,8 @@ La structure serait diviser ainsi:
 - Vendredi 12H : Mis en place du materiel pour le weekend.
 - Vendredi de 17h-18H a 21H : Tournoi Python Live - Apprendre le Python sur des Pico 2W a travers un tournoi permanant.
 - Samedi de 9H a 12H : C est quoi Godot et GDScript ? - Apprendre ce qu est Godot et petit un Hello World  
-- Samedi de 13H a 17H : Hackon Un jeu - Apprendre a simuler des touches avec Pico 2W et lire les pixels d un ecran
-- Samedi de 17H a 21H : Atelier libre - Pratiquer en jouant au jeu du Weekend.
+- Samedi de 13H a 16H : Hackon Un jeu - Apprendre a simuler des touches avec Pico 2W et lire les pixels d un ecran
+- Samedi de 16H a 21H : Atelier libre - Pratiquer en jouant au jeu du Weekend.
 - Dimanche de 9H a 18H : Coaching Godot et Python Avancer - Tournoi de code sur le jeu du Weekend pour pratiquer avec les joueurs classe. 
 
 - Un apprennant n est pas obliger de faire les 3 jours.
