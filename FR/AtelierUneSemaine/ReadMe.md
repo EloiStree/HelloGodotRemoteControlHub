@@ -82,6 +82,5 @@ Chaque jour, un jeu vidéo servira de support pour l’apprentissage du code :
 👉 Ils peuvent acheter le matériel en amont de l’atelier afin qu’il soit configuré sur place, s’ils souhaitent ensuite continuer à l’utiliser chez eux.
 
 ---
+<img width="867" height="682" alt="image" src="https://github.com/user-attachments/assets/3febef99-a45e-4f78-9384-0949f86f03c3" />
 
-<img width="809" height="624" alt="image" src="https://github.com/user-attachments/assets/f7c6da49-65f5-4ced-9a67-731c5c645128" />    
-(L’image doit être mise à jour, car pour simplifier les choses avec les étudiants, je passe d’abord à un Pico 2W sous CircuitPython.)  
