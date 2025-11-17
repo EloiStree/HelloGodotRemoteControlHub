@@ -1,121 +1,121 @@
 
-**Epilogue**
+# **Epilogue**
 
-Mon nom est Eloi Stree et j ai commence a creer des jeux il y a 14 ans d ici. Un simple Mario et dimineur en Java puis un jeu en realiter virtuelle toujours en java.
-Pour faire du jeux video, il vous faut tout creer de A a Z: notions de temps, physics, importer des fichiers, collisions, chargement de niveau...
-Tres amusant mais impossiblement long, c est pour quoi j ai appris a utiliser Unity3D.
+Mon nom est Eloi Stree et j’ai commencé à créer des jeux il y a 14 ans d’ici. Un simple Mario et démineur en Java, puis un jeu en réalité virtuelle, toujours en Java.
+Pour faire du jeu vidéo, il vous faut tout créer de A à Z : notions de temps, physique, importer des fichiers, collisions, chargement de niveau…
+Très amusant mais incroyablement long, c’est pourquoi j’ai appris à utiliser Unity3D.
 
-En septembre 2025, en tant qu enseignant, je decide de tester Godot car il s installerai apparemment sur des RaspberryPi 5 (des petits ordinateurs de 75-150euro).
-Je m y essai et y prend gout. Je constast que l editeur pour tourner sur Andoid ! Et effectivement je peux travailler sur mon telephone. Je peux donc travailler dans un casque de realite virtuelle comme le Quest3 ;) ?
+En septembre 2025, en tant qu’enseignant, je décide de tester Godot car il s’installerait apparemment sur des Raspberry Pi 5 (des petits ordinateurs à 75–150 euros).
+Je m’y essaie et j’y prends goût. Je constate que l’éditeur peut tourner sur Android ! Et effectivement, je peux travailler sur mon téléphone.
+Je peux donc travailler dans un casque de réalité virtuelle comme le Quest 3 ;) ?
 Effectivement.
 
-Godot est un outil de creation de jeux video creer en argentine de maniere open source pour permettre a tous de savoir faire du jeux video peu importe la machine que vous aveza al maison.
-Meme si vous etes sur un vieux Linux 32 bit !!!
+Godot est un outil de création de jeux vidéo créé en Argentine, de manière open source, pour permettre à tous de savoir faire du jeu vidéo, peu importe la machine que vous avez à la maison.
+Même si vous êtes sur un vieux Linux 32 bits !!!
 
-La raison pour laquel je me suis mis a Godot est une suite logic:
-- Scratch permet d apprendre la programmation mais est vite limitant
-- Python est tres formateur mais devient vite compliquer quand le code grandi pour des debutants
-- C# est un beau language mais sans interface graphique il faut savoir garder l attention de apprenand.
-- Unity3D est la bonne solution pour apprendre mais il est trop lourd et trop complexe pour un petit atelier de quelque heures ou jours
+La raison pour laquelle je me suis mis à Godot est une suite logique :
 
-Je cherhait une maniere d enseigner la programmation par le jeu video.
+* Scratch permet d’apprendre la programmation mais est vite limitant
+* Python est très formateur mais devient vite compliqué quand le code grandit pour des débutants
+* C# est un beau langage mais sans interface graphique il faut savoir garder l’attention de l’apprenant
+* Unity3D est la bonne solution pour apprendre mais il est trop lourd et trop complexe pour un petit atelier de quelques heures ou jours
 
-Godot a une force pour un enseignant en programmation: il est multilangue.
-Celui-ci fonction avec son propgre language de `Gogot Script` tres facile a apprendre.
-En plus de celui-ci, il possede un outil, le GDExtension, qui permettre de choisir son language 😁.
-- [Python](https://github.com/niklas2902/py4godot): le language le plus connu au monde, pas tres rapide mais simple et versatile
-- [C#](https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/index.html): tres propre et utiliser dans de nombreux metier et entretenu par Microsoft
-- [C++](https://docs.godotengine.org/en/4.4/tutorials/scripting/gdextension/gdextension_cpp_example.html): si vous desirez la puissance de mais compter etudier pendant 20 l optimisation
-- [Rust](https://godot-rust.github.io): si vous aimez coder propre et pour longtemps
-- [LUA](https://github.com/gilzoide/lua-gdextension): pour faire des jeux modificable par la communauter
-- [Javascript](https://github.com/godotjs/javascript): si vous desirez faire un cartiere de webdeveloppeur par la suite.
+Je cherchais une manière d’enseigner la programmation par le jeu vidéo.
 
+Godot a une force pour un enseignant en programmation : il est multilingue.
+Il fonctionne avec son propre langage, le **GDScript**, très facile à apprendre.
+En plus de celui-ci, il possède un outil, le **GDExtension**, qui permet de choisir son langage 😁.
 
-Un outil de creation de jeux video:
-- leger comme un plumb,
-- sans compte
-- gratuit
-- open source
-- multiplatform
-- tourne sur Linux
-- tourne sur Raspberry Pi 5
-- tourne sur des vieux Window
-- tourne dans les casques VR
-- peu etre utiliser en C# et Python
-- ...
+* **Python** : le langage le plus connu au monde, pas très rapide mais simple et versatile
+* **C#** : très propre, utilisé dans de nombreux métiers et entretenu par Microsoft
+* **C++** : si vous désirez la puissance, mais comptez étudier pendant 20 ans l’optimisation
+* **Rust** : si vous aimez coder propre et pour longtemps
+* **Lua** : pour faire des jeux modifiables par la communauté
+* **JavaScript** : si vous désirez faire une carrière de web développeur par la suite
 
-Y a rien a dire, c est beau ;)
+Un outil de création de jeux vidéo :
 
+* léger comme une plume,
+* sans compte,
+* gratuit,
+* open source,
+* multiplateforme,
+* tourne sur Linux,
+* tourne sur Raspberry Pi 5,
+* tourne sur de vieux Windows,
+* tourne dans les casques VR,
+* peut être utilisé en C# et Python,
+* …
 
-**Raspberry Pi 5 et Steam Machine**
+Y a rien à dire, c’est beau ;)
 
-Le Raspberry Pi est un mini ordinateur creer par le gouvement anglais pour apprendre a programmer et utilier un ordinateur a sa population.
-Il est pas chere et orianter open source.
+# **Raspberry Pi 5 et Steam Machine**
 
-Depuis le Pi 5 est vraiment viable au points que j ai appris Godot pendant deux mois sur celui-ci pour voir ci cela est possible.
-Et effectivement, je conseille vraiment cette achat a un etudiant ou jeune adutle.
+Le Raspberry Pi est un mini-ordinateur créé par le gouvernement anglais pour apprendre à programmer et utiliser un ordinateur à sa population.
+Il n’est pas cher et orienté open source.
 
-Car en plus de permettre d apprendre, il ne consome que 6-18 watt et peu servir de serveur linux a la maison 👍🍻.
+Depuis, le Pi 5 est vraiment viable, au point que j’ai appris Godot pendant deux mois sur celui-ci pour voir si cela est possible.
+Et effectivement, je conseille vraiment cet achat à un étudiant ou jeune adulte.
 
-Mais a heure ou je redigue cette presentation d atelier pour apprendre a coder sur Godot, un nouveau joueur est arriver sur le macher: le casque VR desckard et la Steam Machine.
+Car en plus de permettre d’apprendre, il ne consomme que 6–18 watts et peut servir de serveur Linux à la maison 👍🍻.
 
-Aussi nommer la Gabe Cube, du nom de son createur, la steam machine est un ordinateur et une console de jeux.
-Mais a la difference d une console qui vous enferme pour que vous achetiez des jeux.
-Alors que la Gabe cube est simplement un ordinateur Linux avec juste ce qu il faut pour se sentire alaise sur la ventilastion et la puissance.
-Un petit ordinateur de maison qui en un bouton se trouve etre un console de jeux actuelles, retro et Android.
+Mais à l’heure où je rédige cette présentation d’atelier pour apprendre à coder sur Godot, un nouveau joueur est arrivé sur le marché : **le casque VR Deckard** et la **Steam Machine**.
 
-C est litteralement un revolution a une epoque ou les consoles Xbox et PlayStation coutes le prix d un ordinateur.
+Aussi nommée la *Gabe Cube*, du nom de son créateur, la Steam Machine est un ordinateur et une console de jeux.
+Mais à la différence d’une console qui vous enferme pour que vous achetiez des jeux, la Gabe Cube est simplement un ordinateur Linux avec juste ce qu’il faut pour se sentir à l’aise niveau ventilation et puissance.
+Un petit ordinateur de maison qui, en un bouton, se trouve être une console de jeux actuels, rétro et Android.
 
-Cette atelier, peu importe ca variation sur l exercice ou le contenue, a un simple bute:
-Donner gout a la programmation sur Godot par le jeu video.
+C’est littéralement une révolution à une époque où les consoles Xbox et PlayStation coûtent le prix d’un ordinateur.
 
-Pour cela, 4-12 Raspberry Pi sont mis a disposition des etudiants durant l atelier
-Et, quand disponible, 1-2 Steam Deck seront present pour tester.
+Cet atelier, peu importe sa variation sur l’exercice ou le contenu, a un simple but :
+**Donner goût à la programmation sur Godot par le jeu vidéo.**
 
-Si l apprendant un de ces appareils:
-- une bonne tablette Android
-- un ordinateur portable personnel (linux ou window)
-- son propre raspberry pi 5
-- une Steam Deck
+Pour cela, 4 à 12 Raspberry Pi sont mis à disposition des étudiants durant l’atelier.
+Et, quand disponible, 1–2 Steam Deck seront présents pour tester.
 
-Il peut decider de venir avec.
-Godot exactement le meme sur tout les platformes.
+Si l’apprenant a un de ces appareils :
 
+* une bonne tablette Android
+* un ordinateur portable personnel (Linux ou Windows)
+* son propre Raspberry Pi 5
+* une Steam Deck
 
-# Deckard et Meta
+Il peut décider de venir avec.
+Godot est exactement le même sur toutes les plateformes.
 
-Vous pouvez creer votre jeux video directement a l interieur du casque de Meta le Quest3 😮.
-C est magique.
+# **Deckard et Meta**
 
-Une partie de latelier y sera dedier.
-L avantage du Meta est qu il est abordable, 330euro.
-Le desaventage: C est Mark Zuterber, anciennement proprieteaire de Facebook, qui a la main sur vous.
-Avantage pour un createur: il y 4+ millions de Quest 2 et 1-3 millions de Quest 3 avec qui partager votre jeu.
+Vous pouvez créer votre jeu vidéo directement à l’intérieur du casque de Meta, le Quest 3 😮.
+C’est magique.
 
-Mais depuis le 14 Novembre 2025, vous avons un nouvelle allier:
-le Steam Deckard de Valve.
+Une partie de l’atelier y sera dédiée.
+L’avantage du Meta est qu’il est abordable : environ 330 euros.
+Le désavantage : c’est Mark Zuckerberg, anciennement propriétaire de Facebook, qui a la main sur vous.
+Avantage pour un créateur : il y a 4+ millions de Quest 2 et 1–3 millions de Quest 3 avec qui partager votre jeu.
 
-C est un casque de realite virtuelle a l image du Quest3 mais sous Steam OS via Linux.
+Mais depuis le 14 novembre 2025, nous avons un nouvel allié :
+le **Steam Deckard** de Valve.
+
+C’est un casque de réalité virtuelle à l’image du Quest 3 mais tournant sous SteamOS via Linux.
 Un ordinateur qui est un casque VR et qui sait faire tourner des jeux Steam et Android.
 
-Je peux vous dire que je suis impatient de mettre ma main dessus.
+Je peux vous dire que je suis impatient de mettre la main dessus.
 
-La capaciter que Godot a de pouvoir coder et construire un jeu directement dans le casque et de voir le resultat en meme temps.
-Et magic sous Quest3 et l idee de pouvoir faire sa librement sur Linux en 2025 est merveilleux.
+La capacité que Godot a de pouvoir coder et construire un jeu directement dans le casque et de voir le résultat en même temps…
+C’est magique sur Quest 3, et l’idée de pouvoir faire ça librement sur Linux en 2025 est merveilleuse.
 
-C est une belle annee pour apprendre l informatique en general.
+C’est une belle année pour apprendre l’informatique en général.
 
--------------------------------------------
+---
 
-# L atelier.
+# **L’atelier**
 
-- Day 1: C est quoi un Raspberry Pi et Godot.
-- Day 2: Journee Brackeys
-- Day 3: Bougeons un Drone
-- Day 4: Creetons un niveau pour notre drone
-- Day 5: Jouons a plusieur manette sur votre circuits.
+* **Day 1 :** C’est quoi un Raspberry Pi et Godot.
+* **Day 2 :** Journée Brackeys
+* **Day 3 :** Bougeons un drone
+* **Day 4 :** Créons un niveau pour notre drone
+* **Day 5 :** Jouons à plusieurs, manette sur votre circuit
+
+# **C’est quoi Godot ?**
 
 
-
-**C est quoi Godot ?**
-Godot (preferentially /ˈɡɒdoʊ/ ⓘ GOD-oh)[a] is a cross-platform, free and open-source game engine released under the permissive MIT license. It was initially developed in Buenos Aires by Argentine software developers Juan Linietsky and Ariel Manzur[6] for several companies in Latin America prior to its public release in 2014.[7] The development environment runs on many platforms, and can export to several more. It is designed to create both 2D and 3D games targeting PC, mobile, web, and virtual, augmented, and mixed reality platforms and can also be used to develop non-game software.
