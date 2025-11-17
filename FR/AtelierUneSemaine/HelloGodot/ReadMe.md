@@ -2,10 +2,11 @@
 # **Epilogue**
 ## Version Course
 
-L atelier aura lieux avec Godot, un game engine open source, sur des Raspberry Pi 5.
-Mon but est d initier aux code durant un atelier dinitiation a Godot Engine pour faire des jeux.
+L atelier aura lieux avec Godot, un game engine open source, sur des Raspberry Pi 5 present sur place.
+Mon but est d initier a la programmation en general durant un atelier d introduction a Godot Engine pour faire des jeux.
+
 En 2026, nous allons avoir un Steam Machine un petit ordinateur qui est a la fois une console, je vous la recommande pour vos enfants.
-Vous pouvez appliquer les connaissances de cette atelier au casque de realite virtuelle actuelle (Quest3, Pico).
+Aussi, vous pouvez appliquer les connaissances de cette atelier au casque de realite virtuelle actuelle (Quest3, Pico).
 
 Mais je vous conseille d attendre pour acheter les Steam Deckard de Vavle si vous desirez vous former ou  former votre enfant pour la VR
 Le Valve Deckard est un ordinateur linux (Steam OS) tournant dans un casque VR: ca change beaucoup de chose en positivement.
