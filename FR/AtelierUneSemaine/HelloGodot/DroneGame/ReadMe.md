@@ -45,7 +45,7 @@ Ils peuvent également apporter leurs joysticks ou manettes s’ils souhaitent a
 
 ### **Day 1 : Découvrir le Raspberry Pi et Godot**
 
-* **Matin :** Découvrons Godot sur les Raspberry Pi.
+* **Matin :** Ouvrir le game engine 😉
 * **Après-midi :** Plaçons un drone et quelques arbres dans votre scène.
 
 ### **Day 2 : Faire bouger le drone et attraper des balises**
@@ -62,11 +62,34 @@ Ils peuvent également apporter leurs joysticks ou manettes s’ils souhaitent a
 
 * **Matin :** Configurons une manette pour contrôler le drone.
 * **Après-midi :** Finalisons le niveau afin de pouvoir le partager en ligne.
+* **Soir,formateur**: Mise en commun des niveaux sur un seul projet. 
 
 ### **Day 5 : Publier votre jeu sur Itch.io**
 
 * **Matin :** Exportons le jeu en WebGL et publions-le.
 * **Après-midi :** Testons votre niveau en réalité virtuelle.
+
+
+Voici une version corrigée et reformulée, plus claire et cohérente :
+
+---
+
+### **Post-atelier : Continuer à apprendre à coder**
+
+Vous aimez programmer et souhaitez continuer ?
+
+Nous avons désormais un jeu à compléter avec plusieurs niveaux 😜.
+J’ai ajouté à votre projet de groupe des outils permettant de jouer et apprendre directement avec du code.
+_Un tutoriel en ligne sera bientôt disponible pour vous guider (en cours de création)._
+
+Voici quelques défis à relever :
+* Terminer votre niveau en utilisant uniquement du code Godot.
+* Finir votre niveau le plus rapidement possible.
+* Compléter tous les niveaux du jeu.
+
+**À gagner :** un *Raspberry Pi Pico 2W* pour passer à l’exercice suivant.
+**Exercice suivant :** refaire les mêmes étapes, mais cette fois avec Python sur CircuitPython.
+**Récompense du challenge Python :** la possibilité de participer à des tournois de code que j'organise.
 
 
 ---
