@@ -14,7 +14,7 @@ Durant cette semaine, nous allons réaliser un jeu inspiré de [**10 Seconds Nin
 * Savoir lire et écrire
 * Aimer les jeux vidéo
 * Participation volontaire (non obligatoire)
-* Voir découvrir la programmation
+* Vouloir découvrir la programmation
 
 ## Matériel mis à disposition
 
