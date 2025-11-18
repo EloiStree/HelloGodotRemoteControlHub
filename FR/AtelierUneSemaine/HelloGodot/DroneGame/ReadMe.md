@@ -135,9 +135,12 @@ Très amusant mais incroyablement long, c’est pourquoi j’ai appris à utilis
 Cette outils vous preparez tout sur un plateau.  
 
 En septembre 2025, en tant qu’enseignant, je décide de tester Godot car il s’installerait apparemment sur des Raspberry Pi 5 (des petits ordinateurs à 75–150 euros).  
-Je m’y essaie et j’y prends goût. Je constate que l’éditeur peut tourner sur Android ! Et effectivement, je peux travailler sur mon téléphone.  
+Je m’y essaie et j’y prends goût. 
+De ce fait, je teste et constate que l’éditeur peut tourner sur Android ! 
+Et effectivement, je peux travailler sur mon téléphone.  
+
 Je peux donc travailler dans un casque de réalité virtuelle comme le Quest 3 ;) ?  
-Effectivement.  
+Oui.  
 
 Godot est un outil de création de jeux vidéo créé en Argentine, de manière open source, pour permettre à tous de savoir faire du jeu vidéo, peu importe la machine que vous avez à la maison.  
 Même si vous êtes sur un vieux Linux 32 bits !!!  
