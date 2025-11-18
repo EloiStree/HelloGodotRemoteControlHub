@@ -33,7 +33,7 @@ Godot tourne sur la majoriter des ordinateurs ainsi que sur la plus part des And
 Cependant, ils peuvent, et il est même conseillé, d’apporter leur propre clavier.
 Ils peuvent également apporter leurs joysticks ou manettes s’ils souhaitent apprendre à les configurer pour le jeu.
 
-**Note d'organisation** :
+**Note pour l'organisateur** :
 
 * Étant nomade et voyageant en train avec un flycase, je ne peux pas transporter d’écrans classiques. Les Raspberry Pi sont équipés de petits écrans tactiles, mais il est recommandé de prévoir des écrans supplémentaires, ou bien de demander aux participants d’apporter leur propre clavier et écran pour plus de confort.
 * Afin de pouvoir projeter des slides ou afficher les PC à manipuler, il est nécessaire de disposer sur place d’un écran TV ou d’un vidéoprojecteur.
