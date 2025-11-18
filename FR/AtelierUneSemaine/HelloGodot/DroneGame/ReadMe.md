@@ -131,7 +131,8 @@ _Si vous aimez lire_
 
 Mon nom est Eloi Stree et j’ai commencé à créer des jeux il y a 14 ans d’ici. Un simple Mario et démineur en Java, puis un jeu en réalité virtuelle, toujours en Java.  
 Pour faire du jeu vidéo, il vous faut tout créer de A à Z : notions de temps, physique, importer des fichiers, collisions, chargement de niveau…  
-Très amusant mais incroyablement long, c’est pourquoi j’ai appris à utiliser Unity3D.  
+Très amusant mais incroyablement long, c’est pourquoi j’ai appris à utiliser Unity3D.    
+Cette outils vous preparez tout sur un plateau.  
 
 En septembre 2025, en tant qu’enseignant, je décide de tester Godot car il s’installerait apparemment sur des Raspberry Pi 5 (des petits ordinateurs à 75–150 euros).  
 Je m’y essaie et j’y prends goût. Je constate que l’éditeur peut tourner sur Android ! Et effectivement, je peux travailler sur mon téléphone.  
