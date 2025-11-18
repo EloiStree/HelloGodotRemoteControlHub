@@ -1,55 +1,64 @@
-Ceci est un brouillons de proposition d atelier dans le but d enseigner le code par le jeu durant les weekends de l annee.
-
-------------------------------
 
 
-Ma volonter d enseignaant est de donner gout a la programmation par le jeu et l organisation de tournois de code.
-Le but de cet atelier est de mettre en place un club de programmation pour tout age le weekend.
+Brouillon de proposition d’atelier visant à enseigner la programmation par le jeu durant les week-ends de l’année.
 
-Comme je ne peux heberger le participant tout les vendredi et samedi ;)
+---
 
-La structure serait diviser ainsi:
-- Vendredi 12H : Mis en place du materiel pour le weekend.
-- Vendredi de 17h-18H a 21H : Tournoi Python Live - Apprendre le Python sur des Pico 2W a travers un tournoi permanant.
-- Samedi de 9H a 12H : C est quoi Godot et GDScript ? - Apprendre ce qu est Godot et petit un Hello World  
-- Samedi de 13H a 16H : Hackon Un jeu - Apprendre a simuler des touches avec Pico 2W et lire les pixels d un ecran
-- Samedi de 16H a 21H : Atelier libre - Pratiquer en jouant au jeu du Weekend.
-- Dimanche de 9H a 18H : Coaching Godot et Python Avancer - Tournoi de code sur le jeu du Weekend pour pratiquer avec les joueurs classe. 
+Ma volonté en tant qu’enseignant est de donner le goût de la programmation à travers le jeu et l’organisation de tournois de code.
+L’objectif de cet atelier est de mettre en place un club de programmation, ouvert à tous les âges, les week-ends.
 
-- Un apprennant n est pas obliger de faire les 3 jours.
-- Le vendredi est la pour se detendre sur du code et se faire la main
-- Le samedi est la pour:
-  - les juniors qui veulent decouvrir
-  - les precedents elevent qui veulent pratiquer pendant que je donne cours au junior
-- Le dimanche est la pour pratiquer en self dans une ambiance de code sur le jeu du weekend ou le tournoi permanent.
+Comme je ne peux pas héberger les participants tous les vendredis et samedis ;)
+La structure serait organisée ainsi :
 
-## Le jeu du Weekend
+### **Organisation du week-end**
 
-Toujour la meme configuration:
-- 4 Mini PC afficher sur un grand ecran
-- 4 Pico 2W brancher a ces PC pour simuler des touches de clavier
-- 4 Arduino Xinput brancher a ces PC pour simuler des manettes Xbox
-- 8+ MiraBox brancher sur le grand ecran avec un Switch pour fournir l ecran au eleve
+* **Vendredi — 12h :** Installation et préparation du matériel pour le week-end.
+* **Vendredi — 17h/18h à 21h :** *Tournoi Python Live* – Premiers pas en Python sur des Pico 2W à travers un tournoi permanent.
+* **Samedi — 9h à 12h :** *Introduction à Godot et GDScript* – Découverte de Godot et réalisation d’un petit « Hello World ».
+* **Samedi — 13h à 16h :** *Hackons un jeu* – Apprendre à simuler des touches avec un Pico 2W et à lire les pixels d’un écran.
+* **Samedi — 16h à 21h :** Atelier libre – Pratique et jeu autour du « jeu du week-end ».
+* **Dimanche — 9h à 18h :** Coaching Godot et Python avancé – Tournoi de code sur le jeu du week-end pour s’entraîner aux côtés des joueurs confirmés.
 
-Le cours pour les debutants est baser sur le fait de bouger le personne du jeu pour jouer avec du code
-Le cours pour les avancers est de lire l ecran en plus de bouger le personnsage
-Le cours pour les senior est de finir de partie de jeu sans intervention humain
+### **Précisions**
 
-Un tutorial est fournir pour que les eleves puissent pratiquer chez eux si il on un MiraBox un Pico 2W et deux PC.
+* Les participants ne sont pas obligés d’être là les trois jours.
+* Le **vendredi** sert à se détendre et à prendre en main la programmation.
+* Le **samedi** est dédié :
 
-## Tournoi Permanant
+  * aux juniors qui souhaitent découvrir,
+  * aux anciens élèves qui veulent pratiquer pendant que j’enseigne aux débutants.
+* Le **dimanche** est centré sur la pratique en autonomie dans une ambiance orientée code autour du jeu du week-end ou du tournoi permanent.
 
-J aimerai mettre en place un tournoi de code permanant en Python
-A l image de oGame: votre jeu tourne 24H/24H 7/7
-A l image de Agario: vous apparaissez, vous essayer de survive puis vous recommencer
-A l image de CodeInGame: vous jouez par le code et laisser vivre votre(s) personnage(s) 
+---
 
-L apprennant depose un code Python qui sera placer dans un Pico 2W. Celui-ci recoit les donners du jeu en binaire et en text
-Et il peut fournir des inputs Claviers, manettes via le reseaux.
+## **Le jeu du Week-end**
 
+Configuration fixe :
 
+* 4 mini-PC affichés sur un grand écran
+* 4 Pico 2W connectés aux mini-PC pour simuler des touches de clavier
+* 4 Arduino XInput pour simuler des manettes Xbox
+* 8+ MiraBox branchées sur le grand écran via un switch pour fournir l’affichage aux élèves
 
+### **Objectifs pédagogiques**
 
+* **Débutants :** apprendre à bouger un personnage dans le jeu via du code
+* **Avancés :** apprendre également à lire l’écran
+* **Confirmés/Seniors :** réussir à terminer une partie du jeu sans intervention humaine
 
+Un tutoriel est fourni pour que les élèves puissent pratiquer chez eux, à condition d’avoir une MiraBox, un Pico 2W et deux PC.
 
+---
 
+## **Tournoi Permanent**
+
+Je souhaite mettre en place un tournoi de code permanent en Python.
+
+Inspirations :
+
+* **oGame :** le jeu tourne 24h/24 et 7j/7
+* **Agar.io :** vous apparaissez, vous tentez de survivre, puis vous recommencez
+* **CodinGame :** vous jouez uniquement par le code en laissant vivre votre/vos personnage(s)
+
+L’apprenant dépose un script Python qui est ensuite chargé dans un Pico 2W.
+Le Pico reçoit des informations du jeu en binaire et en texte, et peut générer des entrées clavier ou manette via le réseau.
