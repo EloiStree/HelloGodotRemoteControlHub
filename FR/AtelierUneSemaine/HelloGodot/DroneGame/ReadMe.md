@@ -18,15 +18,22 @@ Durant cette semaine, nous allons réaliser un jeu inspiré de [**10 Seconds Nin
 
 ## Matériel mis à disposition
 
-* **4-8 Raspberry Pi 5 avec écran**
+* **8 Raspberry Pi 5 avec écran**
   * 8 claviers
   * 8 souris
 
+Pour découvrir:
+* **Une Steam deck**
+* **Deux casques de realite virtuelles**
 
 👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.  
 Godot tourne sur la majoriter des ordinateurs ainsi que sur la plus part des Androids.  
 
-**Note** :
+👉 Les claviers fournis sont en QWERTY US, afin d’habituer les apprenants à ce format standard.
+Cependant, ils peuvent, et il est même conseillé, d’apporter leur propre clavier.
+Ils peuvent également apporter leurs joysticks ou manettes s’ils souhaitent apprendre à les configurer pour le jeu.
+
+**Note d'organisation** :
 
 * Étant nomade et voyageant en train avec un flycase, je ne peux pas transporter d’écrans classiques. Les Raspberry Pi sont équipés de petits écrans tactiles, mais il est recommandé de prévoir des écrans supplémentaires, ou bien de demander aux participants d’apporter leur propre clavier et écran pour plus de confort.
 * Afin de pouvoir projeter des slides ou afficher les PC à manipuler, il est nécessaire de disposer sur place d’un écran TV ou d’un vidéoprojecteur.
