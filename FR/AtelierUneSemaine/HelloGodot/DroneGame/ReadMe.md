@@ -1,19 +1,26 @@
 
-# **Epilogue**
-## Version Course
+# Apprendre a coder sur Godot par les drones
 
-L atelier aura lieux avec Godot, un game engine open source, sur des Raspberry Pi 5 present sur place.
-Mon but est d initier a la programmation en general durant un atelier d introduction a Godot Engine pour faire des jeux.
+Mon but dans cette atelier en tant qu enseignant est de donner gout a la programmation via la creation de jeux sur Godot.
+Le pilotage de drone est une passion qui peu vite couter cher, rendont la accessible.
 
-En 2026, nous allons avoir un Steam Machine un petit ordinateur qui est a la fois une console, je vous la recommande pour vos enfants.
-Aussi, vous pouvez appliquer les connaissances de cette atelier au casque de realite virtuelle actuelle (Quest3, Pico).
+Nous allons apprendre a coder un jeu de drone sur l outil de creation Godot Engine.
 
-Mais je vous conseille d attendre pour acheter les Steam Deckard de Vavle si vous desirez vous former ou  former votre enfant pour la VR
-Le Valve Deckard est un ordinateur linux (Steam OS) tournant dans un casque VR: ca change beaucoup de chose en positivement.
 
-Bienvenu dans cette atelier.w
+# **L’atelier**
 
-## Version Longue
+* **Day 1 :** C’est quoi un Raspberry Pi et Godot.
+* **Day 2 :** Bougeons et creons un drone
+* **Day 3 :** Créons un premier niveau pour notre drone
+* **Day 4 :** Ajoutons de la decoration
+* **Day 5 :** Ajoutons un tableau de score et un timer
+
+# **C’est quoi Godot ?**
+
+
+
+
+## Un peu de context
 
 Mon nom est Eloi Stree et j’ai commencé à créer des jeux il y a 14 ans d’ici. Un simple Mario et démineur en Java, puis un jeu en réalité virtuelle, toujours en Java.  
 Pour faire du jeu vidéo, il vous faut tout créer de A à Z : notions de temps, physique, importer des fichiers, collisions, chargement de niveau…  
@@ -28,9 +35,8 @@ Godot est un outil de création de jeux vidéo créé en Argentine, de manière 
 Même si vous êtes sur un vieux Linux 32 bits !!!  
 
 La raison pour laquelle je me suis mis à Godot est une suite logique :  
-
 * Scratch permet d’apprendre la programmation mais est vite limitant  
-* Python est très formateur mais devient vite compliqué quand le code grandit pour des débutants  
+* Python est très formateur mais devient vite compliqué quand le code grandit pour des débutants
 * C# est un beau langage mais sans interface graphique il faut savoir garder l’attention de l’apprenant  
 * Unity3D est la bonne solution pour apprendre mais il est trop lourd et trop complexe pour un petit atelier de quelques heures ou jours  
 
@@ -39,7 +45,6 @@ Je cherchais une manière d’enseigner la programmation par le jeu vidéo.
 Godot a une force pour un enseignant en programmation : il est multilingue.  
 Il fonctionne avec son propre langage, le **GDScript**, très facile à apprendre.  
 En plus de celui-ci, il possède un outil, le **GDExtension**, qui permet de choisir son langage 😁.  
-
 * **Python** : le langage le plus connu au monde, pas très rapide mais simple et versatile  
 * **C#** : très propre, utilisé dans de nombreux métiers et entretenu par Microsoft  
 * **C++** : si vous désirez la puissance, mais comptez étudier pendant 20 ans l’optimisation  
@@ -48,7 +53,6 @@ En plus de celui-ci, il possède un outil, le **GDExtension**, qui permet de cho
 * **JavaScript** : si vous désirez faire une carrière de web développeur par la suite  
 
 Un outil de création de jeux vidéo :  
-
 * léger comme une plume,
 * sans compte,
 * gratuit,
@@ -85,7 +89,7 @@ Cet atelier, peu importe sa variation sur l’exercice ou le contenu, a un simpl
 **Donner goût à la programmation sur Godot par le jeu vidéo.**  
 
 Pour cela, 4 à 12 Raspberry Pi sont mis à disposition des étudiants durant l’atelier.  
-Et, quand disponible en 2026, 1 Steam Machine et un Deckcard seront présents pour tester.   
+Et, quand disponible en 2026, 1/des Steam Machine(s) et un Deckcard seront présents pour tester.   
 
 Si l’apprenant a un de ces appareils :  
 * une bonne tablette Android  
@@ -95,6 +99,7 @@ Si l’apprenant a un de ces appareils :
 
 Il peut décider de venir avec.  
 Godot est exactement le même sur toutes les plateformes.  
+
 
 # **Deckard et Meta**
 
@@ -111,7 +116,6 @@ le **Steam Deckard** de Valve.
 
 C’est un casque de réalité virtuelle à l’image du Quest 3 mais tournant sous SteamOS via Linux.  
 Un ordinateur qui est un casque VR et qui sait faire tourner des jeux Steam et Android.  
-
 Je peux vous dire que je suis impatient de mettre la main dessus.  
 
 La capacité que Godot a de pouvoir coder et construire un jeu directement dans le casque et de voir le résultat en même temps…  
@@ -119,16 +123,9 @@ C’est magique sur Quest 3, et l’idée de pouvoir faire ça librement sur Lin
 
 C’est une belle année pour apprendre l’informatique en général.  
 
+Ça va être une bonne année 2026 😛
+
 ---
 
-# **L’atelier**
-
-* **Day 1 :** C’est quoi un Raspberry Pi et Godot.
-* **Day 2 :** Journée Brackeys
-* **Day 3 :** Bougeons un drone
-* **Day 4 :** Créons un niveau pour notre drone
-* **Day 5 :** Jouons à plusieurs, manette sur votre circuit
-
-# **C’est quoi Godot ?**
 
 
