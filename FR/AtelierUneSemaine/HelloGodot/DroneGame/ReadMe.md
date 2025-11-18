@@ -1,28 +1,103 @@
+# **Apprendre à coder sur Godot grâce aux drones**
 
-# Apprendre a coder sur Godot par les drones
+## Objectif
 
-Mon but dans cette atelier en tant qu enseignant est de donner gout a la programmation via la creation de jeux sur Godot.
-Le pilotage de drone est une passion qui peu vite couter cher, rendont la accessible.
+Mon objectif, en tant qu’enseignant, est de donner le goût de la programmation à travers la création de jeux avec Godot.
+Durant cette semaine, nous allons réaliser un jeu inspiré de **[10 Seconds Ninja]**, dont le principe sera de créer des circuits de drones à terminer en moins de 10 secondes.
 
-Nous allons apprendre a coder un jeu de drone sur un outil gratuit et opensource: Godot.
-https://godotengine.org/
+## Participants
 
-# **L’atelier**
+* 8-12 enfants âgés de 11 à 18 ans (+-)
 
-* **Day 1 :** C’est quoi un Raspberry Pi et Godot.
-* **Day 2 :** Bougeons et creons un drone
-* **Day 3 :** Créons un premier niveau pour notre drone
-* **Day 4 :** Ajoutons de la decoration
-* **Day 5 :** Ajoutons un tableau de score et un timer
+### Conditions de participation
+
+* Savoir lire et écrire
+* Aimer les jeux vidéo
+* Participation volontaire (non obligatoire)
+* Voir découvrir la programmation
+
+## Matériel mis à disposition
+
+* **4-8 Raspberry Pi 5 avec écran**
+  * 8 claviers
+  * 8 souris
+
+
+👉 Les participants peuvent également apporter leur propre PC portable ou un Raspberry Pi 5.  
+Godot tourne sur la majoriter des ordinateurs ainsi que sur la plus part des Androids.  
+
+**Note** :
+
+* Étant nomade et voyageant en train avec un flycase, je ne peux pas transporter d’écrans classiques. Les Raspberry Pi sont équipés de petits écrans tactiles, mais il est recommandé de prévoir des écrans supplémentaires, ou bien de demander aux participants d’apporter leur propre clavier et écran pour plus de confort.
+* Afin de pouvoir projeter des slides ou afficher les PC à manipuler, il est nécessaire de disposer sur place d’un écran TV ou d’un vidéoprojecteur.
+* Je peux apporter jusqu’à 4 autre Raspberry Pi 5 supplémentaires, à condition que des écrans soient disponibles sur place et que l’espace nécessaire soit prévu.
+
+---
+
+## Déroulement de l’atelier (1 semaine)
+
+### **Day 1 : Découvrir le Raspberry Pi et Godot**
+
+* **Matin :** Découvrons Godot sur les Raspberry Pi.
+* **Après-midi :** Plaçons un drone et quelques arbres dans votre scène.
+
+### **Day 2 : Faire bouger le drone et attraper des balises**
+
+* **Matin :** Créons des points de passage.
+* **Après-midi :** Apprenons à déplacer le drone grâce au code.
+
+### **Day 3 : Construire une *graybox* de circuit**
+
+* **Matin :** L’idée est de créer un niveau simple à l’aide de cubes, sphères et autres formes de base.
+* **Après-midi :** Ajoutons un chronomètre et une fin de niveau.
+
+### **Day 4 : Ajouter de la décoration et une manette de jeu**
+
+* **Matin :** Configurons une manette pour contrôler le drone.
+* **Après-midi :** Finalisons le niveau afin de pouvoir le partager en ligne.
+
+### **Day 5 : Publier votre jeu sur Itch.io**
+
+* **Matin :** Exportons le jeu en WebGL et publions-le.
+* **Après-midi :** Testons votre niveau en réalité virtuelle.
+
+
+---
+
+## Langage utilisé
+
+* **GDScript** (similaire à Python, très accessible)
+* Outil : **Godot**, moteur de jeu vidéo open source, proche de l’esprit de Blender
+
+---
+
+## **Progression pédagogique**
+
+* **Étape 1 :** Découvrir ce qu’est Godot.
+* **Étape 2 :** Importer et utiliser du code depuis la bibliothèque en ligne.
+* **Étape 3 :** Comprendre le fonctionnement des collisions dans un jeu vidéo.
+* **Étape 4 :** Créer un premier niveau jouable.
+* **Étape 5 :** Ajouter du défi pour le joueur.
+* **Étape 6 :** Publier et partager son premier jeu.
+
+
+---
+## **Résultats attendus**
+
+À la fin de la semaine, les participants sauront :
+* Ouvrir Godot et utiliser ses fonctionnalités de base.
+* Créer un circuit de drone avec une légère décoration.
+* Programmer une sequence de mouvement de drone.
+* Publier leur jeu sur Itch.io.
 
 
 
-# **C’est quoi Godot ?**
-
-
-
+----------------
+----------------
 
 ## Un peu de context
+
+_Si vous aimez lire_
 
 Mon nom est Eloi Stree et j’ai commencé à créer des jeux il y a 14 ans d’ici. Un simple Mario et démineur en Java, puis un jeu en réalité virtuelle, toujours en Java.  
 Pour faire du jeu vidéo, il vous faut tout créer de A à Z : notions de temps, physique, importer des fichiers, collisions, chargement de niveau…  
