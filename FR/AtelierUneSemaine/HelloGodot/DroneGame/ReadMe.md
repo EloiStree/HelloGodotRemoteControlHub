@@ -4,8 +4,8 @@
 Mon but dans cette atelier en tant qu enseignant est de donner gout a la programmation via la creation de jeux sur Godot.
 Le pilotage de drone est une passion qui peu vite couter cher, rendont la accessible.
 
-Nous allons apprendre a coder un jeu de drone sur l outil de creation Godot Engine.
-
+Nous allons apprendre a coder un jeu de drone sur un outil gratuit et opensource: Godot.
+https://godotengine.org/
 
 # **L’atelier**
 
@@ -14,6 +14,8 @@ Nous allons apprendre a coder un jeu de drone sur l outil de creation Godot Engi
 * **Day 3 :** Créons un premier niveau pour notre drone
 * **Day 4 :** Ajoutons de la decoration
 * **Day 5 :** Ajoutons un tableau de score et un timer
+
+
 
 # **C’est quoi Godot ?**
 
