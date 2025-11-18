@@ -3,7 +3,7 @@
 ## Objectif
 
 Mon objectif, en tant qu’enseignant, est de donner le goût de la programmation à travers la création de jeux avec Godot.
-Durant cette semaine, nous allons réaliser un jeu inspiré de **[10 Seconds Ninja]**, dont le principe sera de créer des circuits de drones à terminer en moins de 10 secondes.
+Durant cette semaine, nous allons réaliser un jeu inspiré de [**10 Seconds Ninja**](https://store.steampowered.com/app/271670/10_Second_Ninja/?l=french), dont le principe sera de créer des circuits de drones à terminer en moins de 10 secondes.
 
 ## Participants
 
