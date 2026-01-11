@@ -1,52 +1,116 @@
-Vous voulez devenir développeur d’applications ou de jeux vidéo.
 
-Il vous faudra maîtriser un langage pour parler avec les machines.
+## 🎮 Objectif
 
-Vous avez à votre disposition :
+Vous voulez devenir **développeur d’applications** ou de **jeux vidéo**.
 
-C++ : performant, mais vous aurez besoin de 2 à 5 ans pour le maîtriser correctement.
+Pour cela, il faut maîtriser **un langage permettant de communiquer avec les machines**.
+Pas un dialecte obscur. Un vrai langage.
 
-Rust : le plus beau langage que je connaisse, mais il condense beaucoup trop de savoir pour un débutant.
+---
 
-Python : obligatoire, mais très vite limitant sur sa propreté et sa performance.
+## 🧰 Les langages à votre disposition
 
-C : trop proche de la machine.
+### 🔧 C++
 
-Java : si vous voulez faire des serveurs web, pourquoi pas.
+* Très performant
+* Comptez **2 à 5 ans** pour le maîtriser correctement
 
-Du Arnold ou du COBOL… euh non.
+### 🦀 Rust
 
-Le C# est un langage qui a l’avantage d’être propre, simple et direct.
-Il ne permet pas de faire des folies, mais il est stable dans le temps.
+* Le plus beau langage que je connaisse
+* Condense **beaucoup trop de concepts** pour un débutant
 
-Je vous propose donc, comme premier langage, d’apprendre le C#.
+### 🐍 Python
 
-Pourquoi Godot ?
+* Obligatoire à connaître
+* Rapidement **limité** en propreté et en performance
 
-Console : le problème d’apprendre le C# en console est la gestion des threads (avoir plusieurs applications qui tournent en même temps).
+### ⚙️ C
 
-Windows Forms : cela permet de faire des applications, mais j’aimerais rester focus sur le langage et la performance sur les images et les sons afin que l’on puisse s’amuser.
+* Trop proche de la machine
+* Excellent pour comprendre, pénible pour débuter
 
-ASP.NET : si vous désirez apprendre à faire des serveurs web, je vous conseillerais du Java ou du Rust, même si le C# fait de bons serveurs. (Il existe d’autres formations ASP.NET bien meilleures que ce que je peux proposer.)
+### ☕ Java
 
-Unity3D : je vous aurais dit oui, mais j’essaie de quitter Unity3D pour Godot, car je ressens une stabilité sur 20 ans que je ne retrouve pas dans Unity3D.
+* Pour faire des **serveurs web**, pourquoi pas
 
-Godot : simple et efficace. Il nous permet d’affronter du code simultané sans se prendre la tête, et de faire deux ou trois interfaces 2D facilement pour tester notre code.
+### 🧟 Arnold, COBOL
 
-Il y a d’autres raisons de prendre Godot qui sont trop personnelles pour être listées.
-Il faut en choisir un, je vous propose celui que je maîtrise et étudie quotidiennement.
+* Non. Vraiment non.
 
-Pourquoi C# et pas GDScript ?
+---
 
-GDScript est le langage de Godot qui constitue la base officielle de l’engine.
-C’est un très bon langage, proche de Python et donc facile à apprendre.
+## ⭐ Pourquoi le C# ?
 
-Mais le but de la formation est de vous former à un langage utilisé par l’industrie dans tout le secteur.
-Apprendre uniquement GDScript revient à devenir développeur Godot.
+Le **C#** a plusieurs avantages :
 
-Cela dit, GDScript a ses avantages.
+* Propre
+* Simple
+* Direct
+* Stable dans le temps
+
+Il ne permet pas toutes les folies, mais il **ne vous lâche pas après trois versions**.
+
+👉 Je vous propose donc **le C# comme premier langage**.
+
+---
+
+## 🎮 Pourquoi Godot ?
+
+### 🖥️ Console
+
+* Apprendre le C# en console pose rapidement un problème de **gestion des threads**
+* Plusieurs applications simultanées compliquent inutilement l’apprentissage
+
+### 🪟 Windows Forms
+
+* Permet de faire des applications
+* Mais l’objectif est de rester **focus sur le langage**, la **performance**, les **images** et le **son**
+* Et surtout : s’amuser un minimum
+
+### 🌐 ASP.NET
+
+* Adapté aux serveurs web
+* Si c’est votre objectif, je recommanderais plutôt **Java** ou **Rust**
+* Le C# sait le faire, mais **d’autres formations ASP.NET sont bien meilleures**
+
+### 🎮 Unity3D
+
+* J’aurais dit oui auparavant
+* Mais je quitte Unity3D pour Godot
+* Je ressens une **stabilité sur 20 ans** que je ne retrouve plus chez Unity
+
+### 🌱 Godot
+
+* Simple
+* Efficace
+* Gère le **code simultané** sans prise de tête
+* Permet de créer rapidement des **interfaces 2D** pour tester le code
+
+Il existe d’autres raisons de choisir Godot, trop personnelles pour être listées.
+Il faut en choisir un. Je vous propose **celui que je maîtrise et étudie quotidiennement**.
+
+---
+
+## ❓ Pourquoi C# et pas GDScript ?
+
+### 🧩 GDScript
+
+* Langage officiel de Godot
+* Proche de Python
+* Facile à apprendre
+* Très bon langage
+
+### 🎯 Le problème
+
+Le but de la formation est de vous former à **un langage utilisé par l’industrie**, tous secteurs confondus.
+👉 Apprendre uniquement **GDScript**, c’est devenir **développeur Godot**.
+
+
 
 -------------------
+
+# Atelier C# en Godot
 
 **Titre :** C# mon premier langage (via Godot et console).
 **Objectif:** À l’issue de la formation, l’étudiant aura acquis une base solide en C# et sera capable de développer des applications console ainsi que des logiciels simples, via à Godot.
