@@ -2,9 +2,7 @@
 ## 🎮 Objectif
 
 Vous voulez devenir **développeur d’applications** ou de **jeux vidéo**.
-
 Pour cela, il faut maîtriser **un langage permettant de communiquer avec les machines**.
-Pas un dialecte obscur. Un vrai langage.
 
 ---
 
@@ -49,7 +47,7 @@ Le **C#** a plusieurs avantages :
 * Direct
 * Stable dans le temps
 
-Il ne permet pas toutes les folies, mais il **ne vous lâche pas après trois versions**.
+Il ne permet pas toutes les folies, mais il **ne vous lâchera pas**.
 
 👉 Je vous propose donc **le C# comme premier langage**.
 
@@ -154,7 +152,6 @@ Allant des mots-clés réservés du langage à des sujets comme la lecture de fi
 Durant le cours, des feuilles A4 et des cheat sheets vous sont fournies.
 
 Le but ?
-
 * Avoir entendu parler du mot (une barre)
 * Avoir utilisé le mot (deux barres)
 * Maîtriser le mot (trois barres)
@@ -174,12 +171,8 @@ Le but ?
 **Note importante :**
 
 * Cette formation n’a pas pour objectif de préparer à une certification officielle ni d’enseigner le bug reporting ou le métier de QA testing. Le sujet est le C# comme premier langage.
-
 * Le but n’est pas d’apprendre Godot. Il est là uniquement pour faciliter l’apprentissage du C# et de la programmation en temps réel.
-
 * Pour un futur développeur junior, l’objectif est d’apprendre à maîtriser un langage de programmation de manière ludique.
-
 * Pour un professionnel, il s’agit d’acquérir les compétences nécessaires à l’automatisation des tests en temps réel (hors web).
-
 l’automatisation des tests temps reel (hors web).
 
