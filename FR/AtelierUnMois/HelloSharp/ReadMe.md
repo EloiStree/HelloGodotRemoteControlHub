@@ -1,8 +1,8 @@
 
 ## 🎮 Objectif
 
-Vous voulez devenir **développeur d’applications** ou de **jeux vidéo**.
-Pour cela, il faut maîtriser **un langage permettant de communiquer avec les machines**.
+Vous voulez devenir **développeur d’applications** ou de **jeux vidéo**.  
+Pour cela, il faut maîtriser **un langage permettant de communiquer avec les machines**.  
 
 ---
 
