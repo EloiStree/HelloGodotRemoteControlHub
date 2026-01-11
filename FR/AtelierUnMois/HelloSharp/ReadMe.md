@@ -109,28 +109,28 @@ Le but de la formation est de vous former à **un langage utilisé par l’indus
 
 # Atelier C# en Godot
 
-**Titre :** C# mon premier langage (via Godot et console).
-**Objectif:** À l’issue de la formation, l’étudiant aura acquis une base solide en C# et sera capable de développer des applications console ainsi que des logiciels simples, via à Godot.
-**Saveur :** Apprendre le métier de QA testeur par la simulation de touches et la capture d’images, d’audio et de vidéo pour des batteries de tests.
+**Titre :** C# mon premier langage (via Godot et console).   
+**Objectif:** À l’issue de la formation, l’étudiant aura acquis une base solide en C# et sera capable de développer des applications console ainsi que des logiciels simples, via à Godot.   
+**Saveur :** Apprendre le métier de QA testeur par la simulation de touches et la capture d’images, d’audio et de vidéo pour des batteries de tests.    
 
-**Concrètes :** l’apprenant maîtrise un langage de programmation, le C#.
-**Simples :** connaître et pratiquer les 500 mots-clés du langage.
-**Valeur ajoutée :** le C# est un langage largement utilisé sur le marché de l’emploi, au-delà du jeu vidéo, notamment avec Unity3D et Godot.
+**Concrètes :** l’apprenant maîtrise un langage de programmation, le C#.   
+**Simples :** connaître et pratiquer les 500 mots-clés du langage.   
+**Valeur ajoutée :** le C# est un langage largement utilisé sur le marché de l’emploi, au-delà du jeu vidéo, notamment avec Unity3D et Godot.   
 
-**Durée:** 4 semaines pour voir les bases - 8 pour maitriser
+**Durée:** 4 semaines pour voir les bases - 8 pour maitriser   
 
 -------------------
 
 **Titre :** Apprendre la programmation par l’automatisation de tests pour l’industrie
-du temps réel.
+du temps réel.   
 
-**Atelier :** L’atelier vous apprendra à maîtriser un langage de programmation dans le but d’automatiser des prises de son, d’images et de vidéos d’applications et de jeux vidéo, avec une interaction automatisée par le code.   
+**Atelier :** L’atelier vous apprendra à maîtriser un langage de programmation dans le but d’automatiser des prises de son, d’images et de vidéos d’applications et de jeux vidéo, avec une interaction automatisée par le code.      
 
 **Public cible :**
 
-* **Non-développeurs** désirant maîtriser les bases d’un langage pour travailler dans l’industrie   
-* **Testeurs de jeux vidéo** souhaitant apprendre à automatiser une partie de leur métier   
-* **Créateurs d’IA** désirant permettre l’automatisation de leurs outils pour le gaming   
+* **Non-développeurs** désirant maîtriser les bases d’un langage pour travailler dans l’industrie     
+* **Testeurs de jeux vidéo** souhaitant apprendre à automatiser une partie de leur métier       
+* **Créateurs d’IA** désirant permettre l’automatisation de leurs outils pour le gaming      
 
 **Compétences acquises :**
 
