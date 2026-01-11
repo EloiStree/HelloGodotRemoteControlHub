@@ -47,9 +47,8 @@ Le **C#** a plusieurs avantages :
 * Direct
 * Stable dans le temps
 
-Il ne permet pas toutes les folies, mais il **ne vous lâchera pas**.
-
-👉 Je vous propose donc **le C# comme premier langage**.
+Il ne permet pas toutes les folies, mais il **ne vous lâchera pas**.   
+👉 Je vous propose donc **le C# comme premier langage**.   
 
 ---
 
@@ -57,20 +56,20 @@ Il ne permet pas toutes les folies, mais il **ne vous lâchera pas**.
 
 ### 🖥️ Console
 
-* Apprendre le C# en console pose rapidement un problème de **gestion des threads**
-* Plusieurs applications simultanées compliquent inutilement l’apprentissage
+* Apprendre le C# en console pose rapidement un problème de **gestion des threads**  
+* Plusieurs applications simultanées compliquent inutilement l’apprentissage   
 
 ### 🪟 Windows Forms
 
-* Permet de faire des applications
-* Mais l’objectif est de rester **focus sur le langage**, la **performance**, les **images** et le **son**
-* Et surtout : s’amuser un minimum
+* Permet de faire des applications 
+* Mais l’objectif est de rester **focus sur le langage**, la **performance**, les **images** et le **son**  
+* Et surtout : s’amuser un minimum  
 
 ### 🌐 ASP.NET
 
-* Adapté aux serveurs web
-* Si c’est votre objectif, je recommanderais plutôt **Java** ou **Rust**
-* Le C# sait le faire, mais **d’autres formations ASP.NET sont bien meilleures**
+* Adapté aux serveurs web   
+* Si c’est votre objectif, je recommanderais plutôt **Java** ou **Rust**  
+* Le C# sait le faire, mais **d’autres formations ASP.NET sont bien meilleures**  
 
 ### 🎮 Unity3D
 
@@ -78,15 +77,15 @@ Il ne permet pas toutes les folies, mais il **ne vous lâchera pas**.
 * Mais je quitte Unity3D pour Godot
 * Je ressens une **stabilité sur 20 ans** que je ne retrouve plus chez Unity
 
-### 🌱 Godot
+### 🌱 Godot  
 
-* Simple
-* Efficace
+* Simple  
+* Efficace 
 * Gère le **code simultané** sans prise de tête
 * Permet de créer rapidement des **interfaces 2D** pour tester le code
 
-Il existe d’autres raisons de choisir Godot, trop personnelles pour être listées.
-Il faut en choisir un. Je vous propose **celui que je maîtrise et étudie quotidiennement**.
+Il existe d’autres raisons de choisir Godot, trop personnelles pour être listées.   
+Il faut en choisir un. Je vous propose **celui que je maîtrise et étudie quotidiennement**.  
 
 ---
 
@@ -101,8 +100,8 @@ Il faut en choisir un. Je vous propose **celui que je maîtrise et étudie quoti
 
 ### 🎯 Le problème
 
-Le but de la formation est de vous former à **un langage utilisé par l’industrie**, tous secteurs confondus.
-👉 Apprendre uniquement **GDScript**, c’est devenir **développeur Godot**.
+Le but de la formation est de vous former à **un langage utilisé par l’industrie**, tous secteurs confondus.  
+👉 Apprendre uniquement **GDScript**, c’est devenir **développeur Godot**.  
 
 
 
@@ -122,57 +121,56 @@ Le but de la formation est de vous former à **un langage utilisé par l’indus
 
 -------------------
 
-**Titre :** Apprendre la programmation par
-l’automatisation de tests pour l’industrie
+**Titre :** Apprendre la programmation par l’automatisation de tests pour l’industrie
 du temps réel.
 
-**Atelier :** L’atelier vous apprendra à maîtriser un langage de programmation dans le but d’automatiser des prises de son, d’images et de vidéos d’applications et de jeux vidéo, avec une interaction automatisée par le code.
+**Atelier :** L’atelier vous apprendra à maîtriser un langage de programmation dans le but d’automatiser des prises de son, d’images et de vidéos d’applications et de jeux vidéo, avec une interaction automatisée par le code.   
 
 **Public cible :**
 
-* **Non-développeurs** désirant maîtriser les bases d’un langage pour travailler dans l’industrie
-* **Testeurs de jeux vidéo** souhaitant apprendre à automatiser une partie de leur métier
-* **Créateurs d’IA** désirant permettre l’automatisation de leurs outils pour le gaming
+* **Non-développeurs** désirant maîtriser les bases d’un langage pour travailler dans l’industrie   
+* **Testeurs de jeux vidéo** souhaitant apprendre à automatiser une partie de leur métier   
+* **Créateurs d’IA** désirant permettre l’automatisation de leurs outils pour le gaming   
 
 **Compétences acquises :**
 
-* Maîtrise des bases du langage C#
-* Savoir automatiser des tests
-* Créer de la télémétrie :
-  * Color et audio picking
-  * Lecture de la RAM avec Cheat Engine
+* Maîtrise des bases du langage C#   
+* Savoir automatiser des tests  
+* Créer de la télémétrie :  
+  * Color et audio picking  
+  * Lecture de la RAM avec Cheat Engine  
 
-**Plan de cours :**
-Le but est de s’améliorer chaque jour dans la maîtrise du langage à travers le test de divers jeux vidéo.
+**Plan de cours :** 
+Le but est de s’améliorer chaque jour dans la maîtrise du langage à travers le test de divers jeux vidéo.  
 Durant les 4 semaines de maîtrise du langage, vous apprendrez à simuler des manettes, claviers et souris par logiciel afin de savoir automatiser des tests.
-Nous verrons aussi comment lire les données d’un jeu par la lecture des pixels, du son et par la lecture de la mémoire.
+Nous verrons aussi comment lire les données d’un jeu par la lecture des pixels, du son et par la lecture de la mémoire.  
 
-Il y a plus de 500 mots-clés en C# importants à connaître pour devenir développeur junior.
-Allant des mots-clés réservés du langage à des sujets comme la lecture de fichiers et la gestion de l’ordre d’exécution du code.
-Durant le cours, des feuilles A4 et des cheat sheets vous sont fournies.
+Il y a plus de 500 mots-clés en C# importants à connaître pour devenir développeur junior.  
+Allant des mots-clés réservés du langage à des sujets comme la lecture de fichiers et la gestion de l’ordre d’exécution du code.  
+Durant le cours, des feuilles A4 et des cheat sheets vous sont fournies.  
 
-Le but ?
-* Avoir entendu parler du mot (une barre)
-* Avoir utilisé le mot (deux barres)
-* Maîtriser le mot (trois barres)
+Le but ?  
+* Avoir entendu parler du mot (une barre)  
+* Avoir utilisé le mot (deux barres)  
+* Maîtriser le mot (trois barres)  
 
-**Mots-clés :** Programmation, Automatisation, Tests de jeux vidéo, C#, Windows, Xbox, Android, Cheat Engine, Injection DLL, Color, Télémétrie, Audio Picking, Open Broadcast, SCRCPY, ADB.
+**Mots-clés :** Programmation, Automatisation, Tests de jeux vidéo, C#, Windows, Xbox, Android, Cheat Engine, Injection DLL, Color, Télémétrie, Audio Picking, Open Broadcast, SCRCPY, ADB.  
 
-**Compétences :**
+**Compétences :**  
 
-* Maîtrise des bases du langage C#
-* Automatisation des tests
-* Extraction de données (pixels, audio, RAM, DLL)
-* Simulation de manettes, claviers et souris
-* Lecture mémoire avec Cheat Engine
-* Développement d’applications console
-* Scripts pour le testing
-
+* Maîtrise des bases du langage C#  
+* Automatisation des tests  
+* Extraction de données (pixels, audio, RAM, DLL)  
+* Simulation de manettes, claviers et souris  
+* Lecture mémoire avec Cheat Engine   
+* Développement d’applications console  
+* Scripts pour le testing  
+ 
 **Note importante :**
 
-* Cette formation n’a pas pour objectif de préparer à une certification officielle ni d’enseigner le bug reporting ou le métier de QA testing. Le sujet est le C# comme premier langage.
-* Le but n’est pas d’apprendre Godot. Il est là uniquement pour faciliter l’apprentissage du C# et de la programmation en temps réel.
-* Pour un futur développeur junior, l’objectif est d’apprendre à maîtriser un langage de programmation de manière ludique.
+* Cette formation n’a pas pour objectif de préparer à une certification officielle ni d’enseigner le bug reporting ou le métier de QA testing. Le sujet est le C# comme premier langage.  
+* Le but n’est pas d’apprendre Godot. Il est là uniquement pour faciliter l’apprentissage du C# et de la programmation en temps réel. 
+* Pour un futur développeur junior, l’objectif est d’apprendre à maîtriser un langage de programmation de manière ludique. 
 * Pour un professionnel, il s’agit d’acquérir les compétences nécessaires à l’automatisation des tests en temps réel (hors web).
 l’automatisation des tests temps reel (hors web).
 
