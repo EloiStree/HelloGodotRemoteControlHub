@@ -1,4 +1,6 @@
 
+Cours: https://github.com/EloiStree/HelloOneMonthSharpYourWay
+
 ## 🎮 Objectif
 
 Vous voulez devenir **développeur d’applications** ou de **jeux vidéo**.  
